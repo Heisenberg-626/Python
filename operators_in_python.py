@@ -11,7 +11,7 @@ c1=a>b
 c2=b<a
 
 print("Sum:",sum,", Division:",div)
-print("Is greater than b?:",c1)
+print("Is a greater than b?:",c1)
 print("Are a and b equal?:",a==b)
 print("Logical AND:",c1)
 print("Logical OR:",c2)
