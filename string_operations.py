@@ -1,5 +1,5 @@
 '''
-Author: Sourav V s
+Author: Sourav V S
 Date: 08-10-2024
 This program is used to perform various tasks on strings
 '''
