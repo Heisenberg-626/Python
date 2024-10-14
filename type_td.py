@@ -1,3 +1,8 @@
+'''
+Author: Sourav V s
+Date: 08-10-2024
+This program is to familiarize time and date in various formats
+'''
 from datetime import datetime
 current_time=datetime.now()
 print(current_time)
