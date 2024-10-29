@@ -1,7 +1,7 @@
 '''
 Author: Sourav V S
 Date: 22-10-2024
-This program is to find the number of vowels in a given string.
+This program is to find the number of vowels and consonants in a given string.
 '''
 str=input("Enter a string:")
 vowels="aeiouAEIOU"
