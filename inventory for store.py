@@ -1,3 +1,8 @@
+'''
+Author: Sourav V S
+Date: 19-11-2024
+This program is to print the item with highest stock value and its value from a list of items in a store.
+'''
 inventory = [("Laptop",12,45000.0),
              ("Keyboard",17,1200.0),
              ("Mouse",13,655.0),
