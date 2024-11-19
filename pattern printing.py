@@ -1,3 +1,8 @@
+'''
+Author: Sourav V S
+Date: 19-11-2024
+This program is to construct patterns of stars (*), using a nested for loop.
+'''
 rows = int(input("Enter the limit: "))
 print("\nIncreasing Triangle")
 for i in range(rows + 1):
