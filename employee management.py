@@ -1,3 +1,8 @@
+'''
+Author: Sourav V S
+Date: 19-11-2024
+This program is to find the employee with highest salary and total annual payroll expenses for all employees.
+'''
 emp_info = [("Ethan","Ethical Hacker",60000.0),
             ("Zayn","Data Scientist",50000.0),
             ("Neo","Web Developer",45000.0),
