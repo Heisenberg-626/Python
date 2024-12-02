@@ -1,8 +1,7 @@
 '''
-Python program to get the student details
 Author: Sourav V S
 Date: 01-10-2024
-Version: 1.0
+This program allows the user to input the student details
 '''
 
 name=input("Enter the Name of the Student:")
