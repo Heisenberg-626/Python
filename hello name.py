@@ -1,8 +1,6 @@
 '''
 Author: Sourav V S
 Date: 05-10-2024
-This program is to get the name and age of person
+This program is to print "Hello World!"
 '''
-name= input("Enter Your Name:")
-age= input("Enter Your Age:")
-print("Hello,",name,"! You are",age,"years old")
+print("Hello World!")
