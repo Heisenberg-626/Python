@@ -1,7 +1,7 @@
 '''
 Author: Sourav V S
 Date: 30-11-2024
-This program is to print the count of upper and lower characters of a given string.
+This program is to print the count of upper and lower case characters of a given string.
 '''
 def count_upper_lower(str):
     upper_char = 0
